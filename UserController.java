@@ -1,4 +1,4 @@
-package com.socio.controller;
+package com.socio.controller
 import com.socio.dto.LoginRequest;
 import com.socio.dto.LoginResponse;
 import com.socio.dto.UserRegistrationRequest;
@@ -65,6 +65,7 @@ public class UserController {
     }
 
 }
+
 
 
 
