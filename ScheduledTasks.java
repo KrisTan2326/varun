@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component;
 
 import java.time.LocalDate;
 
+
 @Component
 public class ScheduledTasks {
 
@@ -25,4 +26,5 @@ public class ScheduledTasks {
         // 3. Save the new post to the database.
         log.info("Birthday post job finished.");
     }
+
 }
