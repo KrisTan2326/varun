@@ -5,7 +5,6 @@ import com.socio.dto.UserRegistrationRequest;
 import com.socio.model.User;
 import io.swagger.v3.oas.annotations.tags.Tag;
 
-
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -65,6 +64,7 @@ public class UserController {
     }
 
 }
+
 
 
 
